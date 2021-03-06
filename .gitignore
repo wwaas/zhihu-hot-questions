@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=go
 
 ### Go ###
-# Binaries for programs and plugins
+# Binaries  for programs and plugins
 *.exe
 *.exe~
 *.dll
